@@ -8,4 +8,5 @@ Test 2 Test 3 Sync for Vova
 
 
 
-Dell Zamena Hello sds
+Dell Hello sds New Gem LOL1
+Здесь будут подключаться гемы (бд и пр)
