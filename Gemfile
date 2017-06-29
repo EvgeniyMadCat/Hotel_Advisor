@@ -5,6 +5,13 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+#bootstrap
+gem "therubyracer"
+gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
+gem "twitter-bootstrap-rails"
+
+
+gem 'sprockets', '3.6.3'
 #Flexible authentication solution for Rails with Warden
 gem 'devise'
 #Haml (HTML Abstraction Markup Language)
